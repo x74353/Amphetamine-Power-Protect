@@ -16,8 +16,8 @@ Sinto muito por isso, mas a Apple não oferece outra maneira. A Apple acha que s
    
      ```/private/etc/sudoers.d/```
 
-4. Abra Terminal.app em ```/Applications/Utilities/``` e copie e cole o seguinte comando em uma janela do Terminal:<BR><BR>
-
+4. Abra Terminal.app em ```/Applications/Utilities/``` e copie e cole o seguinte comando em uma janela do Terminal:
+   
      ```defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE```
 
     em seguida, pressione a tecla Return para executar o comando
