@@ -25,7 +25,7 @@ I'm truely sorry for this, but Apple provides no other way. Apple thinks they kn
 
 <h3>Step Three</h3>
 
-Open Terminal.app from ```/Applications/Utilities/```, then copy & paste the following command into a Terminal window:
+<b>Open Terminal.app from ```/Applications/Utilities/```, then copy & paste the following command into a Terminal window:</b>
 
 ```
 defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
