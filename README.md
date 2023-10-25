@@ -1,2 +1,1 @@
-# Amphetamine-Power-Protect
-Repository for Amphetamine's Power Protect feature.
+# Amphetamine Power Protect
