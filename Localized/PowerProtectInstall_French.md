@@ -1,13 +1,7 @@
 ---
 layout: default
 ---
-
-## Welcome to another page
-
-_yay_
-
 [back](./)
-
 # Bonjour 👋🏼
 
 Sur les ordinateurs portables Apple Silcon Mac, le mode d'affichage fermé peut ne pas fonctionner comme prévu après avoir connecté ou déconnecté votre Mac d'une source d'alimentation externe telle qu'un adaptateur secteur ou un écran avec alimentation. Pour éviter tout problème, vous pouvez installer un script et un fichier de configuration qui résolvent le problème.
