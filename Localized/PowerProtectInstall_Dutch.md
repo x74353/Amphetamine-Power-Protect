@@ -5,6 +5,8 @@ Op Apple Silicon Mac-laptops werkt de Modus met dichtgeklapt scherm mogelijk nie
 
 Het spijt me echt hiervoor, maar Apple biedt geen andere manier. Apple denkt dat ze het beter weten dan u, en staat niet toe dat u Amphetamine toestemming geeft om het benodigde script en configuratiebestand rechtstreeks te installeren om problemen met de Modus met dichtgeklapt scherm te vermijden. Tegenwoordig moet u het zelf doen lijkt het wel, om ervoor te zorgen dat alles gewoon werkt. 🔨💪🏼
 
+<h4>Opmerking: Deze functie vereist geen wachtwoord of Touch ID meer.</h4>
+
 ## Hoe u Power Protect installeert
 
 <h4>Stap Eén</h4>
