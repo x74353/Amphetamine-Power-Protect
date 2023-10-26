@@ -5,22 +5,27 @@ Nos laptops Apple Silicon Mac, o Modo com Tela Fechada pode não funcionar como 
 
 Lamento muito por isso, mas a Apple não oferece outra maneira. A Apple acredita que sabe melhor do que você e não permite que você permita ao Amphetamine instalar diretamente o script e o arquivo de configuração necessários para evitar problemas com o Modo com Tela Fechada. Hoje em dia, parece que você precisa fazer isso por conta própria para que as coisas "simplesmente funcionem". 🔨💪🏼
 
----
+## Como Instalar Power Protect
 
-# Como instalar o Power Protect
+<h4>Passo Um</h4>
+<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Baixe o script Power Protect</a> e instale-o no seguinte local:<br>
+  
+```
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+```
 
-1. <b>[Baixe o script Power Protect](https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip)</b> e instale-o no seguinte local:
+<h4>Passo Dois</h4>
+<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">Baixe o arquivo de configuração Power Protect</a> e instale-o no seguinte local:
    
-     ```/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/```
-   <BR><BR>
-
-2. <b>[Baixe o arquivo de configuração do Power Protect](https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip)</b> e instale-o no seguinte local:
-   
-     ```/private/etc/sudoers.d/```
- <BR><BR>
+```
+/private/etc/sudoers.d/
+```
  
-3. Abra Terminal.app em <i>/Applications/Utilities/</i> e copie e cole o seguinte comando em uma janela do Terminal:
+<h4>Passo Três</h4>
+Abra o Terminal.app a partir de <i>/Applications/Utilities/</i>, em seguida, copie e cole o seguinte comando em uma janela do Terminal:
    
-     ```defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE```
+```
+defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
+```
 
-    em seguida, pressione a tecla Return para executar o comando
+em seguida, pressione a tecla Enter para executar o comando.
