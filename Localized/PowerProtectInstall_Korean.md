@@ -1,10 +1,8 @@
 # 안녕하세요 👋🏼
 
-<b>선호하는 언어로 이 메시지 보기:</b><br><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Arabic.html">아랍어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_ChineseSimplified.html">중국어 (간체)</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Dutch.html">네덜란드어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_French.html">프랑스어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/">영어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_German.html">독일어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Japanese.html">일본어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Korean.html">한국어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Portuguese.html">포르투갈어</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Vietnamese.html">베트남어</a>
-<br><br>
-Apple Silicon Mac 노트북에서 외부 전원 공급원(예: 어댑터 또는 전원 공급 디스플레이)에 연결 또는 연결 해제한 후, 폐쇄 디스플레이 모드가 예상대로 작동하지 않을 수 있습니다. 문제를 피하려면 문제를 해결하는 스크립트 및 구성 파일을 설치할 수 있습니다.
+Apple Silicon Mac 노트북에서 디스플레이를 닫았을시는 외부 전원 공급원인 전원 어댑터 또는 전원 공급 디스플레이와 같은 외부 전원 소스를 연결하거나 연결 해제한 후에 예상대로 작동하지 않을 수 있습니다. 어떤 문제를 피하려면 해당 문제를 해결하는 스크립트와 구성 파일을 설치할 수 있습니다.
 
-죄송하지만, Apple은 다른 방법을 제공하지 않습니다. Apple은 사용자보다 더 잘 알고 있다고 생각하며, 폐쇄 디스플레이 모드 문제를 해결하기 위해 필요한 스크립트 및 구성 파일을 직접 설치하는 것을 허용하지 않습니다. 요즘에는 "그냥 작동하게"하려면 스스로 수행해야 하는 것 같습니다. 🔨💪🏼
+이 부분에 대해 정말 죄송합니다만, 애플은 다른 방법을 제공하지 않습니다. 애플은 사용자보다 더 잘 안다고 생각하며 디스플레이를 닫았을시의 문제를 피하기 위해 필요한 스크립트와 구성 파일을 직접 설치하도록 Amphetamine에 허용하지 않습니다. 요즘에는 "그냥 작동하게"하려면 스스로 해야 하는 것 같습니다. 🔨💪🏼
 
 ## Power Protect 설치 방법
 
