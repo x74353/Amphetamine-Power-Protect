@@ -26,7 +26,7 @@
 
 <h4>第三步</h4>
 
-从```/应用程序/实用工具/```打开终端.app，然后将以下命令复制并粘贴到终端窗口中：
+从```/Applications/Utilities/```打开终端.app，然后将以下命令复制并粘贴到终端窗口中：
 
 ```
 defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
