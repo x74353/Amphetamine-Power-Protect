@@ -1,8 +1,8 @@
 # Olá 👋🏼
 
-Em laptops Apple Silcon Mac, o modo de tela fechada pode não funcionar conforme esperado após conectar ou desconectar seu Mac de uma fonte de alimentação externa, como um adaptador de energia ou monitor com fornecimento de energia. Para evitar problemas, você pode instalar um script e um arquivo de configuração que resolva o problema.
+Nos laptops Apple Silicon Mac, o Modo com Tela Fechada pode não funcionar como esperado depois de conectar ou desconectar o seu Mac de uma fonte de alimentação externa, como um adaptador de energia ou um monitor com fornecimento de energia. Para evitar problemas, você pode instalar um script e um arquivo de configuração que abordam o problema.
 
-Sinto muito por isso, mas a Apple não oferece outra maneira. A Apple acha que sabe melhor do que você e não permitirá que você permita que o Amphetamine instale diretamente o script e o arquivo de configuração necessários para evitar problemas com o modo de exibição fechada. Para fazer as coisas "simplesmente funcionarem" hoje em dia, parece que você tem que fazer isso sozinho. 🔨💪🏼
+Lamento muito por isso, mas a Apple não oferece outra maneira. A Apple acredita que sabe melhor do que você e não permite que você permita ao Amphetamine instalar diretamente o script e o arquivo de configuração necessários para evitar problemas com o Modo com Tela Fechada. Hoje em dia, parece que você precisa fazer isso por conta própria para que as coisas "simplesmente funcionem". 🔨💪🏼
 
 ---
 
