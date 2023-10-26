@@ -22,7 +22,7 @@
 ```/private/etc/sudoers.d/```
 
 <h4>الخطوة الثالثة</h4>
-افتح تطبيق الطرفية من ***/التطبيقات/أدوات/***, ثم قم بنسخ ولصق الأمر التالي في نافذة الطرفية:
+افتح تطبيق الطرفية من <i>/Applications/Utilities/</i>, ثم قم بنسخ ولصق الأمر التالي في نافذة الطرفية:
      
 ```defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE```
 
