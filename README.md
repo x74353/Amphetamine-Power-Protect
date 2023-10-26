@@ -6,6 +6,8 @@ On Apple Silcon Mac laptops, Closed-Display Mode may not work as expected after 
 
 I'm truly sorry for this, but Apple provides no other way. Apple thinks they know better than you do, and won't allow you to permit Amphetamine to directly install the script and configuration file needed to avoid issues with Closed-Display Mode. To get things to "just work" nowadays, you have to do it yourself it seems. 🔨💪🏼
 
+<h4>Note: This feature no longer requires a password or Touch ID.</h4>
+
 ## How To Install Power Protect
 
 <h4>Step One</h4>
@@ -31,7 +33,4 @@ Open Terminal.app from ```/Applications/Utilities/```, then copy & paste the fol
 defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
 ```
 
-then press the Return key to execute the command
-
-
-
+then press the Return key to execute the command.
