@@ -1,10 +1,8 @@
 # こんにちは 👋🏼
 
-<b>お好みの言語でこのメッセージを表示:</b><br><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Arabic.html">アラビア語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_ChineseSimplified.html">簡体字中国語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Dutch.html">オランダ語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_French.html">フランス語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/">英語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_German.html">ドイツ語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Japanese.html">日本語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Korean.html">韓国語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Portuguese.html">ポルトガル語</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Vietnamese.html">ベトナム語</a>
-<br><br>
-Apple Silicon Macノートブックでは、外部電源供給装置（アダプターまたは電源供給ディスプレイなど）を接続または切断した後、閉じたディスプレイモードが期待どおりに機能しないことがあります。問題を回避するために、問題を解決するスクリプトと構成ファイルをインストールできます。
+Apple Silicon Macノートブックでは、外部電源アダプタや電源供給付きディスプレイなどの外部電源からMacを接続または切断した後、クラムシェルモードが予想どおりに動作しないかもしれません。問題を回避するために、問題を解決するスクリプトと設定ファイルをインストールできます。
 
-申し訳ありませんが、Appleは他の方法を提供していません。Appleはユーザーよりもよく知っていると考え、閉じたディスプレイモードの問題を回避するために必要なスクリプトと構成ファイルをAmphetamineが直接インストールすることを許可しません。今日では、問題を自分で解決する必要があるようです。🔨💪🏼
+申し訳ありませんが、Appleには他の方法はありません。Appleはあなたよりもよく知っていると考え、クラムシェルモードの問題を回避するために必要なスクリプトと設定ファイルをAmphetamineに直接インストールすることを許可しません。最近では、"簡単に動作する"ために自分で行う必要があるようです。🔨💪🏼
 
 ## Power Protectのインストール方法
 
