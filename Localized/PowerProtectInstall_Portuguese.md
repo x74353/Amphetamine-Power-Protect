@@ -5,6 +5,8 @@ Nos laptops Apple Silicon Mac, o Modo com Tela Fechada pode não funcionar como 
 
 Lamento muito por isso, mas a Apple não oferece outra maneira. A Apple acredita que sabe melhor do que você e não permite que você permita ao Amphetamine instalar diretamente o script e o arquivo de configuração necessários para evitar problemas com o Modo com Tela Fechada. Hoje em dia, parece que você precisa fazer isso por conta própria para que as coisas "simplesmente funcionem". 🔨💪🏼
 
+<h4>Observação: Esta funcionalidade não requer mais senha ou Touch ID.</h4>
+
 ## Como Instalar Power Protect
 
 <h4>Passo Um</h4>
