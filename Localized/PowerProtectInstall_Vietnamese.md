@@ -5,6 +5,8 @@ Trên các máy tính xách tay Apple Silicon Mac, Chế độ khi Gập Màn h�
 
 Tôi thật sự xin lỗi vì điều này, nhưng Apple không cung cấp cách khác. Apple nghĩ họ biết rõ hơn bạn và sẽ không cho phép bạn cài đặt trực tiếp bằng Amphetamine tập lệnh và tệp cấu hình cần thiết để tránh vấn đề với Chế độ khi Gập Màn hình. Ngày nay, có vẻ bạn phải tự thực hiện để mọi thứ "hoạt động dễ dàng" hơn. 🔨💪🏼
 
+<h4>Lưu ý: Tính năng này không còn yêu cầu mật khẩu hoặc Touch ID nữa.</h4>
+
 ---
 
 ## Cách Cài Đặt Power Protect
