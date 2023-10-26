@@ -1,8 +1,8 @@
 # Xin chào 👋🏼
 
-Trên máy tính xách tay Apple Silicon Mac, Chế độ màn hình đóng có thể không hoạt động như mong đợi sau khi kết nối hoặc ngắt kết nối máy Mac của bạn khỏi nguồn điện bên ngoài như bộ đổi nguồn hoặc màn hình có nguồn điện. Để tránh mọi sự cố, bạn có thể cài đặt tập lệnh và tệp cấu hình để giải quyết sự cố.
+Trên các máy tính xách tay Apple Silicon Mac, Chế độ khi Gập Màn hình có thể không hoạt động như mong đợi sau khi bạn kết nối hoặc ngắt kết nối Mac với nguồn điện ngoại như một bộ chuyển đổi nguồn hoặc màn hình có khả năng cung cấp điện. Để tránh mọi vấn đề, bạn có thể cài đặt một tập lệnh và tệp cấu hình giải quyết vấn đề này.
 
-Tôi thực sự xin lỗi vì điều này, nhưng Apple không có cách nào khác. Apple cho rằng họ biết rõ hơn bạn và sẽ không cho phép bạn cho phép Amphetamine cài đặt trực tiếp tập lệnh và tệp cấu hình cần thiết để tránh sự cố với Chế độ hiển thị đóng. Ngày nay, để mọi thứ "chỉ hoạt động", có vẻ như bạn phải tự mình làm điều đó. 🔨💪🏼
+Tôi thật sự xin lỗi vì điều này, nhưng Apple không cung cấp cách khác. Apple nghĩ họ biết rõ hơn bạn và sẽ không cho phép bạn cài đặt trực tiếp bằng Amphetamine tập lệnh và tệp cấu hình cần thiết để tránh vấn đề với Chế độ khi Gập Màn hình. Ngày nay, có vẻ bạn phải tự thực hiện để mọi thứ "hoạt động dễ dàng" hơn. 🔨💪🏼
 
 ---
 
