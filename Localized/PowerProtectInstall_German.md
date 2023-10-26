@@ -5,6 +5,8 @@ Auf Apple Silicon Mac-Laptops funktioniert der Display-Geschlossen-Modus möglic
 
 Es tut mir wirklich leid dafür, aber Apple bietet keine andere Möglichkeit. Apple glaubt, sie wissen besser als Sie, und erlaubt Ihnen nicht, Amphetamine die direkte Installation des benötigten Skripts und der Konfigurationsdatei zur Vermeidung von Problemen mit dem Display-Geschlossen-Modus zu erlauben. Heutzutage müssen Sie anscheinend selbst Hand anlegen, um die Dinge zum "einfach funktionieren" zu bringen. 🔨💪🏼
 
+<h4>Hinweis: Diese Funktion erfordert keine Passwort oder Touch ID mehr.</h4>
+
 ## So installieren Sie Power Protect
 
 <h4>Schritt Eins</h4>
