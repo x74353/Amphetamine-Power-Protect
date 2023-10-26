@@ -26,7 +26,7 @@ Tôi thật sự xin lỗi vì điều này, nhưng Apple không cung cấp các
 ```
 
 <h4>Bước Ba</h4>
-Mở ứng dụng Terminal từ ***/Applications/Utilities/***, sau đó sao chép và dán lệnh sau vào cửa sổ Terminal:
+Mở ứng dụng Terminal từ <i>/Applications/Utilities/</i>, sau đó sao chép và dán lệnh sau vào cửa sổ Terminal:
 
 ```
 defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
