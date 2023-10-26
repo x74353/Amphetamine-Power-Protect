@@ -1,23 +1,34 @@
-# 你好👋🏼
+# 你好 👋🏼
 
-在 Apple Silcon Mac 笔记本电脑上，将 Mac 连接到外部电源（例如电源适配器或带供电的显示器）或从外部电源断开连接后，关闭显示模式可能无法按预期工作。 为了避免出现任何问题，您可以安装解决该问题的脚本和配置文件。
+<b>用您偏好的语言查看此消息:</b><br><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Arabic.html">阿拉伯语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_ChineseSimplified.html">简体中文</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Dutch.html">荷兰语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_French.html">法语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/">英语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_German.html">德语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Japanese.html">日语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Korean.html">韩语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Portuguese.html">葡萄牙语</a><b> | </b><a href="https://x74353.github.io/Amphetamine-Power-Protect/Localized/PowerProtectInstall_Vietnamese.html">越南语</a>
+<br><br>
+在Apple Silicon Mac笔记本上，连接或断开Mac与外部电源适配器或带电源传递的显示器等外部电源后，关闭显示模式可能无法按预期工作。为了避免问题，您可以安装脚本和配置文件来解决问题。
 
-对此我真的很抱歉，但苹果没有提供其他办法。 Apple 认为他们比您更了解，并且不会允许您允许 Amphetamine 直接安装避免关闭显示模式问题所需的脚本和配置文件。 如今，要让事情“正常运转”，你似乎必须自己做。 🔨💪🏼
+非常抱歉，但苹果没有提供其他方法。苹果认为他们了解得比您更多，不允许Amphetamine直接安装所需的脚本和配置文件，以避免关闭显示模式的问题。如今，似乎必须自行解决问题，使事情“正常工作”。🔨💪🏼
 
----
+## 安装Power Protect的步骤
 
-# 如何安装电源保护
+<h4>第一步</h4>
+<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">下载Power Protect脚本</a>并将其安装在以下位置：<br>
 
-1. <b>[下载 Power Protect 脚本](https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip)</b> 并将其安装在以下位置:
-   
-     ``/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/````
+```
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+```
 
-3. <b>[下载 Power Protect 配置文件](https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip)</b> 并将其安装在以下位置:
-   
-     ```/private/etc/sudoers.d/```
+<h4>第二步</h4>
 
-5. 从``/Applications/Utilities/``` 打开 Terminal.app，然后将以下命令复制并粘贴到终端窗口中：<BR>
+<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">下载Power Protect配置文件</a>并将其安装在以下位置：
 
-     ```defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE```
+```
+/private/etc/sudoers.d/
+```
 
-    然后按回车键执行命令
+<h4>第三步</h4>
+
+从```/应用程序/实用工具/```打开终端.app，然后将以下命令复制并粘贴到终端窗口中：
+
+```
+defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
+```
+
+然后按回车键执行命令。
