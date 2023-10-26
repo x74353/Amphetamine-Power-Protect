@@ -5,6 +5,8 @@ Sur les ordinateurs portables Apple Silicon Mac, le Mode Ecran Fermé peut ne pa
 
 Je suis vraiment désolé pour cela, mais Apple ne propose aucune autre solution. Apple pense qu'ils savent mieux que vous ce qu'il faut faire, et ne vous autorisera pas à permettre à Amphetamine d'installer directement le script et le fichier de configuration nécessaires pour éviter les problèmes avec le Mode Ecran Fermé. De nos jours, il semble que vous devez le faire vous-même pour que les choses "fonctionnent simplement". 🔨💪🏼
 
+<h4>Remarque : Cette fonctionnalité ne nécessite plus de mot de passe ni d'empreinte digitale.</h4>
+
 ## Comment installer Power Protect
 
 <h4>Étape un</h4>
