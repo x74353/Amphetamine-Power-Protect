@@ -7,18 +7,24 @@
 
 ---
 
-# كيفية تثبيت حماية الطاقة
+كيفية تثبيت "Power Protect"
 
-1. <b>[قم بتنزيل البرنامج النصي Power Protect](https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip)</b> وقم بتثبيته في الموقع التالي:
+<h4>الخطوة الأولى</h4>
+<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">قم بتنزيل ملف السكربت "Power Protect"</a> وقم بتثبيته في الموقع التالي:<br>
 
-   ```/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/```
 
-3. <b>[قم بتنزيل ملف تكوين Power Protect](https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip)</b> وقم بتثبيته في الموقع التالي:
+```/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/```
 
-   ```/private/etc/sudoers.d/```
+<h4>الخطوة الثانية</h4>
+<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">قم بتنزيل ملف الضبط "Power Protect"</a> وقم بتثبيته في الموقع التالي:
+   
+```/private/etc/sudoers.d/```
 
-3. افتح Terminal.app من ```/Applications/Utilities/```، ثم انسخ الأمر التالي والصقه في نافذة طرفية:
+<h4>الخطوة الثالثة</h4>
+افتح تطبيق الطرفية من ***/التطبيقات/أدوات/***, ثم قم بنسخ ولصق الأمر التالي في نافذة الطرفية:
+     
+```defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE```
 
-     ```defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE```
-
-    ثم اضغط على مفتاح العودة لتنفيذ الأمر
+ثم اضغط على مفتاح العودة لتنفيذ الأمر.
+   
+   
