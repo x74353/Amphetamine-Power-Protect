@@ -11,23 +11,22 @@ I'm truly sorry for this, but Apple provides no other way. Apple thinks they kno
 # How To Install Power Protect
 
 <h2>Step One</h2>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip"> Click here</a> to download the Power Protect Installer disk image.<br>
+<b><a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip"></a></b> Click here</a></b> to download the Power Protect Installer disk image.<br>
 After the disk image downloads, double-click it to open,<br><br>
-<img src="https://github.com/x74353/Amphetamine-Power-Protect/blob/d8cea76019fd06f94976870d2efcef3930c5c3af/images/Install_DiskImage.png?raw=true" width=50% height=50%>
+<img src="./images/Install_DiskImage.png" alt="Disk image" width=50% height=50%>
 
 
 Then, double-click the Installer start installation:
 <br><br>
-<img src="https://github.com/x74353/Amphetamine-Power-Protect/blob/d8cea76019fd06f94976870d2efcef3930c5c3af/images/Install_Start_02.png?raw=true" width=50% height=50%>
-
+<img src="./images/Install_Start_02.png" alt="Installer" width=50% height=50%>
 <h2>Step Two</h2>
 Authenticate with Touch ID or your administrative account password:<br><br>
-<img src="https://github.com/x74353/Amphetamine-Power-Protect/blob/6c23c4f4eaa5c906e80a9467f2a6433d8587f094/images/Install_TouchID.png?raw=true" width=50% height=50%>
+<img src="./images/Install_TouchID.png" alt="Touch ID" width=50% height=50%>
 
 <h2>Step Three</h2>
 Install complete! 🎉<br><br>
 Amphetamine should now recognize that Power Protect is installed. If a closed-display mode session is already in progress, end it and start a new session.<br><br>
-<img src="https://github.com/x74353/Amphetamine-Power-Protect/blob/6c23c4f4eaa5c906e80a9467f2a6433d8587f094/images/Install_End.png" width=50% height=50%>
+<img src="./images/Install_End.png" alt="Install complete" width=50% height=50%>
 <br>
 <br>
 <h4>The Power Protect Installers places files in the following locations:</h4>
