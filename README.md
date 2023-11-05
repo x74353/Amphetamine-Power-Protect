@@ -7,27 +7,26 @@ On Apple Silcon Mac laptops, Closed-Display Mode may not work as expected after 
 I'm truly sorry for this, but Apple provides no other way. Apple thinks they know better than you do, and won't allow you to permit Amphetamine to directly install the script and configuration file needed to avoid issues with Closed-Display Mode. To get things to "just work" nowadays, you have to do it yourself it seems. 🔨💪🏼
 
 <h4>Note: This feature no longer requires a password or Touch ID after installing Power Protect.</h4><br>
-![Touch ID](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
 
 # How To Install Power Protect
 
 <h2>Step One</h2>
-<b><a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip"></a></b> Click here</a></b> to download the Power Protect Installer disk image.<br>
+<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip"></a> Click here</a></b> to download the Power Protect Installer disk image.<br>
 After the disk image downloads, double-click it to open,<br><br>
-<img src="./images/Install_DiskImage.png" alt="Disk image" width=50% height=50%>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
 
 
 Then, double-click the Installer start installation:
 <br><br>
-<img src="./images/Install_Start_02.png" alt="Installer" width=50% height=50%>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
 <h2>Step Two</h2>
 Authenticate with Touch ID or your administrative account password:<br><br>
-<img src="./images/Install_TouchID.png" alt="Touch ID" width=50% height=50%>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
 
 <h2>Step Three</h2>
 Install complete! 🎉<br><br>
 Amphetamine should now recognize that Power Protect is installed. If a closed-display mode session is already in progress, end it and start a new session.<br><br>
-<img src="./images/Install_End.png" alt="Install complete" width=50% height=50%>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
 <br>
 <br>
 <h4>The Power Protect Installers places files in the following locations:</h4>
