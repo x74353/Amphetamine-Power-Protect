@@ -29,7 +29,7 @@ Amphetamine should now recognize that Power Protect is installed. If a Closed-Di
 ![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
 <br>
 <br>
-<h4>The Power Protect Installers places files in the following locations:</h4>
+<h4>The Power Protect Installer places files in the following locations:</h4>
 
 ```
 /Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
