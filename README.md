@@ -6,31 +6,26 @@ On Apple Silcon Mac laptops, Closed-Display Mode may not work as expected after 
 
 I'm truly sorry for this, but Apple provides no other way. Apple thinks they know better than you do, and won't allow you to permit Amphetamine to directly install the script and configuration file needed to avoid issues with Closed-Display Mode. To get things to "just work" nowadays, you have to do it yourself it seems. 🔨💪🏼
 
-<h4>Note: This feature no longer requires a password or Touch ID.</h4>
+<h4>Note: This feature no longer requires a password or Touch ID after installing Power Protect.</h4>
 
 ## How To Install Power Protect
 
-<h4>Step One</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Download the Power Protect script</a> and install it in the following location:<br>
+<h3><a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Click here</a> to download the Power Protect Installer ⬇️</h3>
+After the installer downloads, double-click it to start installation.
+
+![alt text](https://github.com/x74353/Amphetamine-Power-Protect/blob/4a171f25a248fcdaca7a456fb4884901b4afdeee/images/Install_Start.png?raw=true)
+
+
+
+
+<br>
+<br>
+<h4>The Power Protect Installers will place files in the following locations:</h4>
 
 ```
-/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
 ```
 
-<h4>Step Two</h4>
-
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">Download the Power Protect configuration file</a> and install it in the following location:
-
 ```
-/private/etc/sudoers.d/
+/private/etc/sudoers.d/amphetamine_powerProtect
 ```
-
-<h4>Step Three</h4>
-
-Open Terminal.app from ```/Applications/Utilities/```, then copy & paste the following command into a Terminal window:
-
-```
-defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
-```
-
-then press the Return key to execute the command.
