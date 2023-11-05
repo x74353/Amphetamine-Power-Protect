@@ -12,11 +12,11 @@ I'm truly sorry for this, but Apple provides no other way. Apple thinks they kno
 
 <h2>Step One</h2>
 <a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Click here</a> to download the Power Protect Installer disk image.<br>
-After the disk image downloads, double-click it to open,<br><br>
+After the disk image downloads, double-click it to access the Installer:<br><br>
 ![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
 
 
-Then, double-click the Installer start installation:
+Then, double-click the Installer to start installation:
 <br><br>
 ![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
 <h2>Step Two</h2>
@@ -25,7 +25,7 @@ Authenticate with Touch ID or your administrative account password:<br><br>
 
 <h2>Step Three</h2>
 Install complete! 🎉<br><br>
-Amphetamine should now recognize that Power Protect is installed. If a closed-display mode session is already in progress, end it and start a new session.<br><br>
+Amphetamine should now recognize that Power Protect is installed. If a Closed-Display Mode session is already in progress, end it and start a new session.<br><br>
 ![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
 <br>
 <br>
