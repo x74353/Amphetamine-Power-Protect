@@ -13,7 +13,7 @@ I'm truly sorry for this, but Apple provides no other way. Apple thinks they kno
 <h3><a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Click here</a> to download the Power Protect Installer ⬇️</h3>
 After the installer downloads, double-click it to start installation.
 
-![alt text](https://github.com/x74353/Amphetamine-Power-Protect/blob/4a171f25a248fcdaca7a456fb4884901b4afdeee/images/Install_Start.png?raw=true)
+![alt text](https://github.com/x74353/Amphetamine-Power-Protect/blob/4a171f25a248fcdaca7a456fb4884901b4afdeee/images/Install_Start_01.png?raw=true)
 
 
 
