@@ -7,7 +7,8 @@ On Apple Silcon Mac laptops, Closed-Display Mode may not work as expected after 
 I'm truly sorry for this, but Apple provides no other way. Apple thinks they know better than you do, and won't allow you to permit Amphetamine to directly install the script and configuration file needed to avoid issues with Closed-Display Mode. To get things to "just work" nowadays, you have to do it yourself it seems. 🔨💪🏼
 
 <h4>Note: This feature no longer requires a password or Touch ID after installing Power Protect.</h4><br>
-
+![Touch ID](/Amphetamine-Power-Protect/docs/assets/Install_TouchID.png)
+![Touch ID](/Amphetamine-Power-Protect/assets/Install_TouchID.png)
 # How To Install Power Protect
 
 <h2>Step One</h2>
