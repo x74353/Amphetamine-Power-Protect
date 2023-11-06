@@ -19,10 +19,11 @@ After the disk image downloads, double-click it to access the Installer:<br><br>
 Then, double-click the Installer to start installation:
 <br><br>
 ![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
 <h2>Step Two</h2>
 Authenticate with Touch ID or your administrative account password:<br><br>
 ![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
-
+<br><br>
 <h2>Step Three</h2>
 Install complete! 🎉<br><br>
 Amphetamine should now recognize that Power Protect is installed. If a Closed-Display Mode session is already in progress, end it and start a new session.<br><br>
