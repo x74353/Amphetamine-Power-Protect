@@ -9,27 +9,34 @@ Tôi thật sự xin lỗi vì điều này, nhưng Apple không cung cấp các
 
 ---
 
-## Cách Cài Đặt Power Protect
+# Cách Cài Đặt Power Protect
 
-<h4>Bước Một</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Tải xuống tập lệnh "Power Protect"</a> và cài đặt nó tại vị trí sau:<br>
-   
+<h2>Bước một</h2>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">Nhấp vào đây</a></b> để tải xuống ảnh đĩa của Trình cài đặt Power Protect.<br>
+Sau khi tải ảnh đĩa xuống, hãy nhấp đúp vào ảnh đĩa đó để truy cập Trình cài đặt:<br><br>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
+
+<br><br>
+Sau đó bấm đúp vào Trình cài đặt để bắt đầu cài đặt:
+<br><br>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
+<h2>Bước hai</h2>
+Xác thực bằng Touch ID hoặc mật khẩu tài khoản quản trị của bạn:<br><br>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
+<br><br>
+<h2>Bước ba</h2>
+Cài đặt hoàn tất! 🎉<br><br>
+Amphetamine bây giờ sẽ nhận ra rằng Power Protect đã được cài đặt. Nếu phiên Chế độ màn hình đóng đang diễn ra, hãy kết thúc phiên đó và bắt đầu phiên mới.<br><br>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
+<br>
+<br>
+<h4>Trình cài đặt Power Protect đặt các tệp vào các vị trí sau:</h4>
+
 ```
-/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
 ```
 
-<h4>Bước Hai</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">Tải xuống tệp cấu hình Power Protect</a> và cài đặt nó tại vị trí sau:
-   
 ```
-/private/etc/sudoers.d/
+/private/etc/sudoers.d/amphetamine_powerProtect
 ```
-
-<h4>Bước Ba</h4>
-Mở ứng dụng Terminal từ <i>/Applications/Utilities/</i>, sau đó sao chép và dán lệnh sau vào cửa sổ Terminal:
-
-```
-defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
-```
-
-sau đó nhấn phím Return để thực hiện lệnh.
