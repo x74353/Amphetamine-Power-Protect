@@ -7,29 +7,34 @@ Apple Silicon Macノートブックでは、外部電源アダプタや電源供
 
 <h4>注意：この機能にはもはやパスワードやTouch IDは必要ありません。</h4>
 
-## Power Protectのインストール方法
+# Power Protectのインストール方法
 
-<h4>ステップ1</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Power Protectスクリプトをダウンロード</a>し、次の場所にインストールしてください:<br>
+<h2>ステップ 1</h2>
+<b><a href="https://github.com/x74353/Amphetmine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetmine.dmg">ここをクリック</a></b> Power Protect インストーラー ディスク イメージをダウンロードします。<br>
+ディスク イメージをダウンロードしたら、それをダブルクリックしてインストーラーにアクセスします。<br><br>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
+
+<br><br>
+次に、インストーラーをダブルクリックしてインストールを開始します。
+<br><br>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
+<h2>ステップ 2</h2>
+Touch ID または管理者アカウントのパスワードで認証します。<br><br>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
+<br><br>
+<h2>ステップ 3</h2>
+インストール完了！ 🎉<br><br>
+これで、アンフェタミンは Power Protect がインストールされていることを認識するはずです。 クローズドディスプレイ モード セッションがすでに進行中の場合は、セッションを終了して新しいセッションを開始します。<br><br>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
+<br>
+<h4>Power Protect インストーラーは、次の場所にファイルを配置します。</h4>
 
 ```
-/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
 ```
 
-<h4>ステップ2</h4>
-
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">Power Protect構成ファイルをダウンロード</a>し、次の場所にインストールしてください:
-
 ```
-/private/etc/sudoers.d/
+/private/etc/sudoers.d/amphetamine_powerProtect
 ```
-
-<h4>ステップ3</h4>
-
-Terminal.app ```/Applications/Utilities/``` から開き、次のコマンドをコピーしてターミナルウィンドウに貼り付けてください:
-
-```
-defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
-```
-
-その後、コマンドを実行するためにReturnキーを押してください。
+<br>
