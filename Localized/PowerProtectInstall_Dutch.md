@@ -7,31 +7,34 @@ Het spijt me echt hiervoor, maar Apple biedt geen andere manier. Apple denkt dat
 
 <h4>Opmerking: Deze functie vereist geen wachtwoord of Touch ID meer.</h4>
 
-## Hoe u Power Protect installeert
+# Hoe u Power Protect installeert
 
-<h4>Stap Eén</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Download het Power Protect-script</a> en installeer het op de volgende locatie:<br>
+<h2>Stap één</h2>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">Klik hier</a></b> om de Power Protect Installer-schijfkopie te downloaden.<br>
+Nadat de schijfkopie is gedownload, dubbelklikt u erop om het installatieprogramma te openen:<br><br>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
+
+<br><br>
+Dubbelklik vervolgens op het installatieprogramma om de installatie te starten:
+<br><br>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
+<h2>Stap Twee</h2>
+Verifieer met Touch ID of het wachtwoord van uw beheerdersaccount:<br><br>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
+<br><br>
+<h2>Stap Drie</h2>
+Installatie voltooid! 🎉<br><br>
+Amfetamine zou nu moeten herkennen dat Power Protect is geïnstalleerd. Als er al een sessie in de gesloten weergavemodus bezig is, beëindig deze dan en start een nieuwe sessie.<br><br>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
+<br>
+<br>
+<h4>Het Power Protect-installatieprogramma plaatst bestanden op de volgende locaties:</h4>
 
 ```
-/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
 ```
 
-<h4>Stap Twee</h4>
-
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">Download het Power Protect-configuratiebestand</a> en installeer het op de volgende locatie:
-
 ```
-/private/etc/sudoers.d/
+/private/etc/sudoers.d/amphetamine_powerProtect
 ```
-
-<h4>Stap Drie</h4>
-
-Open Terminal.app vanuit ```/Applications/Utilities/```, kopieer vervolgens de volgende opdracht en plak deze in een Terminal-venster:
-
-```
-defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
-```
-
-druk vervolgens op de Return-toets om de opdracht uit te voeren.
-
-
