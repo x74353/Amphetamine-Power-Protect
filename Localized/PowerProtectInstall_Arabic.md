@@ -8,24 +8,33 @@
 <h4>ملاحظة: هذه الميزة لم تعد تتطلب كلمة مرور أو Touch ID.</h4>
 ---
 
-كيفية تثبيت "Power Protect"
+# كيفية تثبيت Power Protect
 
-<h4>الخطوة الأولى</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">قم بتنزيل ملف السكربت "Power Protect"</a> وقم بتثبيته في الموقع التالي:<br>
+<h2>الخطوة الأولى</h2>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">انقر هنا</a></b > لتنزيل صورة قرص Power Protect Installer.<br>
+بعد تنزيل صورة القرص، انقر نقرًا مزدوجًا فوقها للوصول إلى برنامج التثبيت:<br><br>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
+<br><br>
+ثم انقر نقرًا مزدوجًا فوق برنامج التثبيت لبدء التثبيت:
+<br><br>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
+<h2>الخطوة الثانية</h2>
+قم بالمصادقة باستخدام Touch ID أو كلمة مرور حسابك الإداري:<br><br>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
+<br><br>
+<h2>الخطوة الثالثة</h2>
+اكتمل التثبيت! 🎉<br><br>
+يجب أن يتعرف الأمفيتامين الآن على تثبيت Power Protect. إذا كانت جلسة وضع العرض المغلق قيد التقدم بالفعل، فقم بإنهائها وابدأ جلسة جديدة.<br><br>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
+<br>
+<br>
+<h4>يقوم برنامج Power Protect Installer بوضع الملفات في المواقع التالية:</h4>
 
+```
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
+```
 
-```/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/```
-
-<h4>الخطوة الثانية</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">قم بتنزيل ملف الضبط "Power Protect"</a> وقم بتثبيته في الموقع التالي:
-   
-```/private/etc/sudoers.d/```
-
-<h4>الخطوة الثالثة</h4>
-افتح تطبيق الطرفية من <i>/Applications/Utilities/</i>, ثم قم بنسخ ولصق الأمر التالي في نافذة الطرفية:
-     
-```defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE```
-
-ثم اضغط على مفتاح العودة لتنفيذ الأمر.
-   
-   
+```
+/private/etc/sudoers.d/amphetamine_powerProtect
+```
