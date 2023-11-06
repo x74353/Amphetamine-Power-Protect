@@ -7,29 +7,34 @@ Apple Silicon Mac 노트북에서 디스플레이를 닫았을시는 외부 전�
 
 <h4>참고: 이 기능에는 더 이상 비밀번호 또는 Touch ID가 필요하지 않습니다.</h4>
 
-## Power Protect 설치 방법
+# Power Protect 설치 방법
 
-<h4>단계 1</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Power Protect 스크립트 다운로드</a> 및 다음 위치에 설치하십시오:<br>
+<h2>1단계</h2>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">여기를 클릭하세요</a></b> Power Protect 설치 프로그램 디스크 이미지를 다운로드합니다.<br>
+디스크 이미지를 다운로드한 후 이를 두 번 클릭하여 설치 프로그램에 액세스하세요.<br><br>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
+
+<br><br>
+그런 다음 설치 프로그램을 두 번 클릭하여 설치를 시작합니다.
+<br><br>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
+<h2>2단계</h2>
+Touch ID 또는 관리 계정 비밀번호로 인증하세요.<br><br>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
+<br><br>
+<h2>3단계</h2>
+설치가 완료되었습니다! 🎉<br><br>
+이제 암페타민은 Power Protect가 설치되었음을 인식해야 합니다. 폐쇄형 디스플레이 모드 세션이 이미 진행 중인 경우 해당 세션을 종료하고 새 세션을 시작하세요.<br><br>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
+<br>
+<br>
+<h4>Power Protect 설치 프로그램은 다음 위치에 파일을 배치합니다.</h4>
 
 ```
-/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
 ```
 
-<h4>단계 2</h4>
-
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">Power Protect 구성 파일 다운로드</a> 및 다음 위치에 설치하십시오:
-
 ```
-/private/etc/sudoers.d/
+/private/etc/sudoers.d/amphetamine_powerProtect
 ```
-
-<h4>단계 3</h4>
-
-터미널 앱을 ```/Applications/Utilities/``` 에서 열고 다음 명령을 복사하여 터미널 창에 붙여 넣으십시오:
-
-```
-defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
-```
-
-그런 다음 명령을 실행하려면 Return 키를 누르십시오.
