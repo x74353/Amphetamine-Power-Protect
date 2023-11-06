@@ -7,29 +7,36 @@
 
 <h4>注意：此功能不再需要密码或 Touch ID。</h4>
 
-## 安装Power Protect的步骤
+# 如何安装电源保护
 
-<h4>第一步</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">下载Power Protect脚本</a>并将其安装在以下位置：<br>
+<h2>第一步</h2>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">点击此处</a></b > 下载 Power Protect 安装程序磁盘映像。<br>
+磁盘映像下载后，双击它以访问安装程序：<br><br>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
+
+<br><br>
+然后，双击安装程序开始安装：
+<br><br>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
+<h2>第二步</h2>
+使用 Touch ID 或您的管理帐户密码进行身份验证：<br><br>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
+<br><br>
+<h2>第三步</h2>
+安装完成！ 🎉<br><br>
+安非他明现在应该识别出 Power Protect 已安装。 如果关闭显示模式会话已在进行中，请结束它并开始新会话。<br><br>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
+<br>
+<br>
+<h4>Power Protect 安装程序将文件放置在以下位置：</h4>
 
 ```
-/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
 ```
 
-<h4>第二步</h4>
-
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">下载Power Protect配置文件</a>并将其安装在以下位置：
-
 ```
-/private/etc/sudoers.d/
+/private/etc/sudoers.d/amphetamine_powerProtect
 ```
 
-<h4>第三步</h4>
 
-从```/Applications/Utilities/```打开终端.app，然后将以下命令复制并粘贴到终端窗口中：
-
-```
-defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
-```
-
-然后按回车键执行命令。
