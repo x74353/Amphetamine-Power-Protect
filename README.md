@@ -11,7 +11,7 @@ I'm truly sorry for this, but Apple provides no other way. Apple thinks they kno
 # How To Install Power Protect
 
 <h2>Step One</h2>
-<a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">Click here</a> to download the Power Protect Installer disk image.<br>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">Click here</a></b> to download the Power Protect Installer disk image.<br>
 After the disk image downloads, double-click it to access the Installer:<br><br>
 ![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
 
