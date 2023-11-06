@@ -7,29 +7,34 @@ Es tut mir wirklich leid dafür, aber Apple bietet keine andere Möglichkeit. Ap
 
 <h4>Hinweis: Diese Funktion erfordert keine Passwort oder Touch ID mehr.</h4>
 
-## So installieren Sie Power Protect
+# So installieren Sie Power Protect
 
-<h4>Schritt Eins</h4>
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Script.zip">Laden Sie das Power Protect Skript herunter</a> und installieren Sie es an folgendem Ort:<br>
+<h2>Schritt eins</h2>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">Klicken Sie hier</a></b> um das Power Protect Installer-Disk-Image herunterzuladen.<br>
+Nachdem das Disk-Image heruntergeladen wurde, doppelklicken Sie darauf, um auf das Installationsprogramm zuzugreifen:<br><br>
+![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
+
+<br><br>
+Doppelklicken Sie dann auf das Installationsprogramm, um die Installation zu starten:
+<br><br>
+![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
+<br><br>
+<h2>Schritt zwei</h2>
+Authentifizieren Sie sich mit Touch ID oder Ihrem Administratorkonto-Passwort:<br><br>
+![Touch ID prompt](/Amphetamine-Power-Protect/docs/assets/Install_TouchID_small.png)
+<br><br>
+<h2>Schritt drei</h2>
+Installation abgeschlossen! 🎉<br><br>
+Amphetamine sollte nun erkennen, dass Power Protect installiert ist. Wenn bereits eine Sitzung im geschlossenen Anzeigemodus läuft, beenden Sie sie und starten Sie eine neue Sitzung.<br><br>
+![Installer finished](/Amphetamine-Power-Protect/docs/assets/Install_End_small.png)
+<br>
+<br>
+<h4>Das Power Protect-Installationsprogramm legt Dateien an den folgenden Speicherorten ab:</h4>
 
 ```
-/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/
+/Users/YourUserAccount/Library/Application Scripts/com.if.Amphetamine/powerProtect.scpt
 ```
 
-<h4>Schritt Zwei</h4>
-
-<a href="https://raw.githubusercontent.com/x74353/Amphetamine/master/Files/PowerProtect_Configuration.zip">Laden Sie die Power Protect Konfigurationsdatei herunter</a> und installieren Sie sie an folgendem Ort:
-
 ```
-/private/etc/sudoers.d/
+/private/etc/sudoers.d/amphetamine_powerProtect
 ```
-
-<h4>Schritt Drei</h4>
-
-Öffnen Sie Terminal.app unter ```/Applications/Utilities/```, kopieren Sie dann den folgenden Befehl und fügen Sie ihn in ein Terminalfenster ein:
-
-```
-defaults write com.if.Amphetamine 'Enable Power Protect Install' -bool TRUE
-```
-
-drücken Sie dann die Eingabetaste, um den Befehl auszuführen.
