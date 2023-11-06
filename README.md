@@ -15,7 +15,7 @@ I'm truly sorry for this, but Apple provides no other way. Apple thinks they kno
 After the disk image downloads, double-click it to access the Installer:<br><br>
 ![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
 
-
+<br><br>
 Then, double-click the Installer to start installation:
 <br><br>
 ![Installer begin](/Amphetamine-Power-Protect/docs/assets/Install_Start_small.png)
