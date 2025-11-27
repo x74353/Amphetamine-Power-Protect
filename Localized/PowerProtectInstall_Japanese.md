@@ -10,7 +10,7 @@ Apple Silicon Macノートブックでは、外部電源アダプタや電源供
 # Power Protectのインストール方法
 
 <h2>ステップ 1</h2>
-<b><a href="https://github.com/x74353/Amphetmine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetmine.dmg">ここをクリック</a></b> Power Protect インストーラー ディスク イメージをダウンロードします。<br>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">ここをクリック</a></b> Power Protect インストーラー ディスク イメージをダウンロードします。<br>
 ディスク イメージをダウンロードしたら、それをダブルクリックしてインストーラーにアクセスします。<br><br>
 ![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
 
