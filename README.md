@@ -11,7 +11,8 @@ I'm truly sorry for this, but Apple provides no other way to install these files
 # How To Install Power Protect
 
 <h2>Step One</h2>
-<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">Click here</a></b> to download the Power Protect Installer disk image.<br>
+<b><a href="https://github.com/x74353/Amphetamine-Power-Protect/raw/main/DMG/Power%20Protect%20for%20Amphetamine.dmg">Click here</a></b> to download the Power Protect Installer disk image.<br> 
+<br> SHA-256: f5627906d61f141c73743ca37c4588fc79fcf2a163ef5f8f562fb7e0e85eb2ca <br><br>
 After the disk image downloads, double-click it to access the Installer:<br><br>
 ![Disk image](/Amphetamine-Power-Protect/docs/assets/Install_DiskImage_small.png)
 
